@@ -1,5 +1,5 @@
 # Phonebook-Web-App
-In this Phonebook App you can add new contact, search contact and delete any contact.
+In this Phonebook Web App you can add new contact, search contact and delete any contact.
 
 ## List of Contact
 ![](https://github.com/Pranjalraj0046/Phonebook-Web-App/blob/master/Image/List%20of%20Contact.png)
